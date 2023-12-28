@@ -5,7 +5,7 @@ I love medical diagnosis and prognosis with AI...
 
 Skills: python / git
 
-- 🌱 I’m currently learning machine learning 
+- 🌱 I’m currently learning python 
 - 📫 How to reach me: alinajafi6266@gmail.com 
 
 
