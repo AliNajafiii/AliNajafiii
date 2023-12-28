@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @AliNajafiii
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning AI for medical diagnosis and prognosis
